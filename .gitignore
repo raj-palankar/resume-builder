@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Flask
+instance/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
