@@ -68,8 +68,6 @@ A minimal and professional interface focused on making resume creation straightf
   <i>Resume Builder — Home Page</i>
 </p>
 
-> Replace the screenshot path with your actual project screenshot.
-
 ---
 
 ## 🧰 Tech Stack
