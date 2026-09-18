@@ -1,25 +1,32 @@
 # Python
 __pycache__/
 *.py[cod]
+*.pyo
 
-# Virtual environments
+# Virtual Environment
 venv/
 .venv/
 env/
 
-# Environment variables
+# Environment Variables
 .env
 .env.*
 
-# Flask
-instance/
+# VS Code
+.vscode/
 
-# Databases
+# Database
 *.db
 *.sqlite
 *.sqlite3
 
+# Logs
+*.log
 
-# VS Code
-.vscode/*
-!.vscode/settings.json
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build / Cache
+.pytest_cache/
+.mypy_cache/
