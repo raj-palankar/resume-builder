@@ -61,7 +61,7 @@ A minimal and professional interface focused on making resume creation straightf
 ## 🖥️ Preview
 
 <p align="center">
-  <img src="./screenshots/home.png" alt="Resume Builder Home Page" width="850">
+  <img src="https://github.com/raj-palankar/resume-builder/blob/main/frontend/images/resume_builder_homepage.png" alt="Resume Builder Home Page" width="550">
 </p>
 
 <p align="center">
